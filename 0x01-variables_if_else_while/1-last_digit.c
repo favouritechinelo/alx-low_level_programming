@@ -2,7 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - prints a number to variable
+/**
+ *
+ * main - prints a number to variable
  *
  * return always (success)
  *
